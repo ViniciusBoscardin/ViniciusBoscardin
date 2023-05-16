@@ -4,7 +4,6 @@ Tenho 32 anos, sou de Curitiba-PR, baterista, Front End Developer e formado em A
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusBoscardin&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBoscardin&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Sou um desenvolvedor front-end com experiência em diversas tecnologias, incluindo JavaScript, HTML, CSS, ReactJS, WordPress e Figma. Nos últimos anos, trabalhei em projetos de desenvolvimento web, aplicativos móveis e interfaces de usuário, sempre com foco na entrega de soluções de alta qualidade e excelente usabilidade.
 
