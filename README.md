@@ -25,7 +25,7 @@ Curso Typescript - Udemy <br>
 
 Work in progress...
 
-<a target="_blank" href="https://www.linkedin.com/in/vin%C3%ADciusboscardin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a target="_blank" href="https://www.instagram.com/xhatecreation/">  <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a  href="https://www.linkedin.com/in/vin%C3%ADciusboscardin/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a target="_blank" href="https://www.instagram.com/xhatecreation/">  <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 
 Um abraço! :bat:
