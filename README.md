@@ -1,4 +1,4 @@
- Olá eu sou o Vinícius 👋
+ # Olá eu sou o Vinícius 👋
 
 Tenho 32 anos, sou de Curitiba-PR, baterista, Front End Developer e formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo.
 
