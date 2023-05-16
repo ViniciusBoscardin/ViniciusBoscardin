@@ -9,7 +9,7 @@ Sou um desenvolvedor front-end com experiência em diversas tecnologias, incluin
 
 Cursos :mortar_board:
 
-Análise e Desenvolvimento de Sistemas - Universidade Positivo
+Análise e Desenvolvimento de Sistemas - Universidade Positivo <br><br/>
 Curso React.JS Completo - Origamid
 Curso JavaScript ES6 - Origamid
 Curso React.JS - Next.JS - Udemy
