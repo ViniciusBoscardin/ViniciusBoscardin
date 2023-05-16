@@ -9,14 +9,14 @@ Sou um desenvolvedor front-end com experiência em diversas tecnologias, incluin
 
 Cursos :mortar_board:
 
-Análise e Desenvolvimento de Sistemas - Universidade Positivo <br>
-Curso React.JS Completo - Origamid <br>
-Curso JavaScript ES6 - Origamid <br>
-Curso React.JS - Next.JS - Udemy <br>
-Curso WordPress REST API - Origamid <br>
-Curso Web Design Completo - Udemy <br>
-Curso Typescript - Origamid <br>
-Curso Typescript - Udemy <br>
+- Análise e Desenvolvimento de Sistemas - Universidade Positivo <br>
+- Curso React.JS Completo - Origamid <br>
+- Curso JavaScript ES6 - Origamid <br>
+- Curso React.JS - Next.JS - Udemy <br>
+- Curso WordPress REST API - Origamid <br>
+- Curso Web Design Completo - Udemy <br>
+- Curso Typescript - Origamid <br>
+- Curso Typescript - Udemy <br>
 
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
